@@ -6,8 +6,8 @@
 🤝 Seeking a position where I can apply my skills and grow as part of a collaborative team.
 
 My Education - 🎓
-Black Sea College: Third Level Vocational Qualification of Technician of Chassis 🎓
-Itlogia Online School: Front-End Developer 🎓
+- Black Sea College: Third Level Vocational Qualification of Technician of Chassis 🎓
+- Itlogia Online School: Front-End Developer 🎓
 
 💻 I love writing code and learning anything new about it.
 
