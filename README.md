@@ -15,19 +15,23 @@ My Education - 🎓
 <hr/>
 
 🛠️ Languages and Tools:
-<div style="display: flex; align-items: flex-start;">
- <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="icon" width="75" height="75" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="icon" width="75" height="75" />
-   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="82" height="82" />
- <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="82" height="82" />
- <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="75" height="75" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/angular.png" alt="icon" width="75" height="75" />
- <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="75" height="75" />
- <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="75" height="75" />
- <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/webstorm.png" alt="icon" width="75" height="75" />
- <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png" alt="icon" width="75" height="75" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="icon" width="75" height="75" />
-
-</div>
+<table>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" width="75"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" width="75"/></td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="82"/></td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="82"/></td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="82"/></td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="75" height="75" /></td>
+    <td align="center"> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/angular.png" alt="icon" width="75" height="75" /></td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="75" height="75" /></td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="75" height="75" /></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/webstorm.png" alt="icon" width="75" height="75" /></td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="75" height="75" /></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png" alt="icon" width="75" height="75" /></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="icon" width="75" height="75" /></td>
+   
+  </tr>
+</table>
 
 <hr/>
